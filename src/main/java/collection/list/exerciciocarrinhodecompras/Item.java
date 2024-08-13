@@ -1,4 +1,4 @@
-package main.java.collection.lista.exerciciocarrinhodecompras;
+package main.java.collection.list.exerciciocarrinhodecompras;
 
 public class Item {
     private String nome;

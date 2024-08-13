@@ -1,4 +1,4 @@
-package main.java.collection.lista.exerciciocarrinhodecompras;
+package main.java.collection.list.exerciciocarrinhodecompras;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -43,6 +43,9 @@ public class CarrinhoDeCompras {
     }
 
     public static void main(String[] args) {
+
+        // método main apenas para fazer pequenos testes de implementaçao!
+        
         CarrinhoDeCompras carrinho = new CarrinhoDeCompras();
 
         carrinho.adicionarItem("Arroz", 5.0, 2);
