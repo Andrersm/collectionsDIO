@@ -5,7 +5,7 @@
 
 Este repositório foi criado para consolidar o conhecimento adquirido no curso de **Collections em Java** da plataforma DIO.
 
-Os exercícios estão organizados em pacotes, separados por temas específicos, como `List`, `Set`, `Map`, e `Queue`.
+Os exercícios estão organizados em pacotes, separados por temas específicos, como `List`, `Set` e `Map`.
 
 ## Objetivo
 
